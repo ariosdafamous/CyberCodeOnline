@@ -1833,7 +1833,7 @@
  	 	 	 	"eng": "Language"
  	 	 	},
  	 	 	"langWarning": {
- 	 	 	 	"trans": "Данный перевод находится в открытом доступе и был предоставлен нашими игроками. Скорее всего не завершен и содержаит ошибки. Дополнить его можно на нашей странице GitHub",
+ 	 	 	 	"trans": "Данный перевод находится в открытом доступе и был предоставлен нашими игроками. Скорее всего не завершен и содержит ошибки. Дополнить его можно на нашей странице GitHub",
  	 	 	 	"eng": "This language pack is open source and contributed by our players, the text may not be fully translated and could contain mistakes. please feel free to edit and contribute from our Github page"
  	 	 	},
  	 	 	"playBackgroundMusic": {
